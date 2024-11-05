@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hello Coding Wizards :mage:
+
+**I'm a newcomer in the web development world, but I'm looking to <sup>_level up_</sup> !**
+
+3 facts about me:
+1. I currently work in healthcare :hospital:, but am looking for a career change.
+2. I have a cat named Beemo :cat: and another named Ube :cat: - cats are everything (but, so are my kids lol).
+3. The last time I dabbled with HTML was when Xanga was a thing... :upside_down_face:
 
 <!--
 **mkarvs/mkarvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
