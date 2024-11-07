@@ -7,7 +7,7 @@
 ##### <div align="center">I'm a newbie in the web development world, but I'm looking to <sup>level up!</sup></div>  
 
 <br/>
-3 truths:
+3 tidbits:
 <br/>
 
 - 🏥I currently work in healthcare, but am looking for a career change.
@@ -20,8 +20,9 @@
 
 ## Connect with me  
 
-<a href="https://www.linkedin.com/in/mikoweaver/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.instagram.com/mikomikomom" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mikoweaver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mikoweaver" height="30" width="40" /></a>
+<a href="https://instagram.com/mikomikomom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mikomikomom" height="30" width="40" /></a>
+<a href="https://discord.gg/VtGaphPg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mikomikomom" height="30" width="40" /></a>
 
 <br/>  
 
@@ -29,6 +30,12 @@
 ... Coming Soon
 
 <br />
+
+📄 Know about my experiences: [RESUME](https://drive.google.com/file/d/1DfhYgzooL3J5hVX8Q-9NJGKz_BbBZ3Je/view?usp=sharing)
+
+<br/>
+
+
 
 
 
