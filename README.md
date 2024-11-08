@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=mkarvs&&style=flat-square" align="center" />
 </div>  
 
-**<div align="center">Hello Coding Wizards🧙‍♂️</div>**
+**<div align="center">Hello Coding Wizards 🧙‍♂️</div>**
 
 ##### <div align="center">I'm a newbie in the web development world, but I'm looking to <sup>level up!</sup></div>  
 
@@ -10,7 +10,7 @@
 3 tidbits:
 <br/>
 
-- 🏥I currently work in healthcare, but am looking for a career change.
+- 🏥 I currently work in healthcare, but am looking for a career change.
   
 - I have a cat named Beemo 😺 and another named Ube 😺 - cats are everything (but, so are my kids lol).
   
@@ -31,7 +31,7 @@
 
 <br />
 
-📄 Know about my experiences: [RESUME](https://drive.google.com/file/d/1DfhYgzooL3J5hVX8Q-9NJGKz_BbBZ3Je/view?usp=sharing)
+:thinking: Curious about my work origins? [Check out my resume!](https://drive.google.com/file/d/1DfhYgzooL3J5hVX8Q-9NJGKz_BbBZ3Je/view?usp=sharing)
 
 <br/>
 
