@@ -12,7 +12,7 @@
 
 - 🏥 I currently work in healthcare, but am looking for a career change.
   
-- I have a cat named Beemo 😺 and another named Ube 😺 - cats are everything (but, so are my kids lol).
+- I have a cat named Beemo 😺 and another named Ube 😺 - cats are everything (but, so are my kids lulz).
   
 - The last time I dabbled with HTML was when Xanga was a thing... 🙃
   
